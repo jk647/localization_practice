@@ -1,20 +1,18 @@
 # Localization Practice (Flutter)
 
-A small Flutter practice project focused on **app localization** and **multi-language support**.
+A small Flutter demo app focused on **localization (l10n)** using `easy_localization`.  
+This repo shows a practical workflow: string extraction → JSON locale files → typed helper (`Locals`) → `AppStrings` abstraction → UI use. It includes English, Urdu, and Arabic translations and a minimal, clean project structure.
 
-## What I practiced
-- Flutter localization setup
-- Using localized strings
-- Language switching basics
-- Clean project structure for localization
-
-## Tech Stack
-- Flutter
-- Dart
-
-## Purpose
-This project is created **only for learning and practice**, to improve my Flutter skills and understanding of localization.
+> Goal: practice real-world localization patterns and keep UI decoupled from translation implementation.
 
 ---
 
-⭐ Practice project – learning by building
+## 🔥 Highlights / Features
+- Flutter app with language selection (English / اردو / العربية)
+- `easy_localization` setup + localized JSON files (`assets/translations`)
+- `AppStrings` abstraction (UI calls only `AppStrings`, never `Locals` directly)
+- Seed translations: `en.json`, `ur.json`, `ar.json`
+
+---
+
+## 🧭 Project structure
