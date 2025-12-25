@@ -1,0 +1,37 @@
+[
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "title",
+    "type": "Expression",
+    "text": "title",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "product['name']",
+    "type": "Expression",
+    "text": "product['name']",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "product['price']",
+    "type": "Expression",
+    "text": "product['price']",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\language_selection_screen.dart",
+    "rawArg": "flag",
+    "type": "Expression",
+    "text": "flag",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\language_selection_screen.dart",
+    "rawArg": "language",
+    "type": "Expression",
+    "text": "language",
+    "placeholders": []
+  }
+]

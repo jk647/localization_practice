@@ -1,0 +1,31 @@
+{
+  "homeSelectedlanguage": "Home - {selectedLanguage}",
+  "johnDoe": "John Doe",
+  "johnExampleCom": "john@example.com",
+  "home": "Home",
+  "profile": "Profile",
+  "settings": "Settings",
+  "logout": "Logout",
+  "welcomeBack": "Welcome Back!",
+  "discoverAmazingProductsToday": "Discover amazing products today",
+  "categories": "Categories",
+  "seeAll": "See All",
+  "featuredProducts": "Featured Products",
+  "selectYourLanguage": "Select Your Language",
+  "chooseYourPreferredLanguage": "Choose your preferred language",
+
+  "navCart": "Cart",
+  "navExplore": "Explore",
+
+  "categoryBooks": "Books",
+  "categoryFood": "Food",
+  "categoryFashion": "Fashion",
+  "categoryElectronics": "Electronics",
+
+  "productPhone": "Phone",
+  "productLaptop": "Laptop",
+  "productWatch": "Watch",
+  "productHeadphones": "Headphones",
+
+  "searchHint": "Search products..."
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "'Home - ${widget.selectedLanguage}'",
+    "type": "Interpolated String",
+    "text": "Home - {selectedLanguage}",
+    "placeholders": [
+      "selectedLanguage"
+    ]
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "'John Doe'",
+    "type": "Pure String",
+    "text": "John Doe",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "'john@example.com'",
+    "type": "Pure String",
+    "text": "john@example.com",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "'Home'",
+    "type": "Pure String",
+    "text": "Home",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "'Profile'",
+    "type": "Pure String",
+    "text": "Profile",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "'Settings'",
+    "type": "Pure String",
+    "text": "Settings",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "'Logout'",
+    "type": "Pure String",
+    "text": "Logout",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "'Welcome Back!'",
+    "type": "Pure String",
+    "text": "Welcome Back!",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "'Discover amazing products today'",
+    "type": "Pure String",
+    "text": "Discover amazing products today",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "'Categories'",
+    "type": "Pure String",
+    "text": "Categories",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "'See All'",
+    "type": "Pure String",
+    "text": "See All",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "'Featured Products'",
+    "type": "Pure String",
+    "text": "Featured Products",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "title",
+    "type": "Expression",
+    "text": "title",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "product['name']",
+    "type": "Expression",
+    "text": "product['name']",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\home_screen.dart",
+    "rawArg": "product['price']",
+    "type": "Expression",
+    "text": "product['price']",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\language_selection_screen.dart",
+    "rawArg": "'Select Your Language'",
+    "type": "Pure String",
+    "text": "Select Your Language",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\language_selection_screen.dart",
+    "rawArg": "'Choose your preferred language'",
+    "type": "Pure String",
+    "text": "Choose your preferred language",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\language_selection_screen.dart",
+    "rawArg": "flag",
+    "type": "Expression",
+    "text": "flag",
+    "placeholders": []
+  },
+  {
+    "file": "lib\\screens\\language_selection_screen.dart",
+    "rawArg": "language",
+    "type": "Expression",
+    "text": "language",
+    "placeholders": []
+  }
+]

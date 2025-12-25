@@ -1,0 +1,31 @@
+{
+  "homeSelectedlanguage": "الصفحة الرئيسية - {selectedLanguage}",
+  "johnDoe": "جون دو",
+  "johnExampleCom": "john@example.com",
+  "home": "الرئيسية",
+  "profile": "الملف الشخصي",
+  "settings": "الإعدادات",
+  "logout": "تسجيل الخروج",
+  "welcomeBack": "مرحباً بعودتك!",
+  "discoverAmazingProductsToday": "اكتشف منتجات رائعة اليوم",
+  "categories": "الأقسام",
+  "seeAll": "عرض الكل",
+  "featuredProducts": "منتجات مميزة",
+  "selectYourLanguage": "اختر لغتك",
+  "chooseYourPreferredLanguage": "اختر لغتك المفضلة",
+
+  "navCart": "عربة التسوق",
+  "navExplore": "استكشاف",
+
+  "categoryBooks": "الكتب",
+  "categoryFood": "الطعام",
+  "categoryFashion": "الموضة",
+  "categoryElectronics": "الإلكترونيات",
+
+  "productPhone": "هاتف",
+  "productLaptop": "حاسوب محمول",
+  "productWatch": "ساعة",
+  "productHeadphones": "سماعات",
+
+  "searchHint": "ابحث عن منتجات..."
+}

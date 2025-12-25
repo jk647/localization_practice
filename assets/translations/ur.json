@@ -1,0 +1,31 @@
+{
+  "homeSelectedlanguage": "ہوم - {selectedLanguage}",
+  "johnDoe": "جان ڈو",
+  "johnExampleCom": "john@example.com",
+  "home": "ہوم",
+  "profile": "پروفائل",
+  "settings": "ترتیبات",
+  "logout": "لاگ آؤٹ",
+  "welcomeBack": "خوش آمدید!",
+  "discoverAmazingProductsToday": "آج شاندار پروڈکٹس دریافت کریں",
+  "categories": "زمرہ جات",
+  "seeAll": "سب دیکھیں",
+  "featuredProducts": "نمایاں مصنوعات",
+  "selectYourLanguage": "اپنی زبان منتخب کریں",
+  "chooseYourPreferredLanguage": "اپنی پسندیدہ زبان منتخب کریں",
+
+  "navCart": "کارٹ",
+  "navExplore": "دریافت کریں",
+
+  "categoryBooks": "کتابیں",
+  "categoryFood": "خوراک",
+  "categoryFashion": "فیشن",
+  "categoryElectronics": "الیکٹرانکس",
+
+  "productPhone": "فون",
+  "productLaptop": "لیپ ٹاپ",
+  "productWatch": "گھڑی",
+  "productHeadphones": "ہیڈفونز",
+
+  "searchHint": "پروڈکٹس تلاش کریں..."
+}
