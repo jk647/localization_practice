@@ -12,7 +12,3 @@ This repo shows a practical workflow: string extraction → JSON locale files �
 - `easy_localization` setup + localized JSON files (`assets/translations`)
 - `AppStrings` abstraction (UI calls only `AppStrings`, never `Locals` directly)
 - Seed translations: `en.json`, `ur.json`, `ar.json`
-
----
-
-## 🧭 Project structure
